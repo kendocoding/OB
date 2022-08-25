@@ -3,8 +3,8 @@
         <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
     </head>
     <body>
-        <p>Este es mi primer comentario de dos líneas</p>
-        <div>Aprendiendo a documentar mi código con OpenBootcamp</div>
+        <!--Este es mi primer comentario de dos líneas
+        Aprendiendo a documentar mi código con OpenBootcamp-->
           <ul>
             <li><a href="https://www.youtube.com/watch?v=WjEmquJhSas">Magnus Carlsen Vs. Kasparov</a></li>
                 <li><a href="https://www.youtube.com/watch?v=wofz0k6FCMU">The shortest game of Magnus Carlsen's chess career!</a></li>
