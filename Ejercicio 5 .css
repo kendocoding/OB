@@ -1,0 +1,9 @@
+.imagen {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imagen img {
+    width: 300px;
+
+}
