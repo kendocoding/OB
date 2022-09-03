@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Disposición de elementos en CSS</title>
+    <link rel="stylesheet" href="/disp-elem.css">
+  </head>
+  <body>
+    <div class="imagen">
+      <img src="/Multim/3700441.webp" alt="imagen1" />
+      <img src="/Multim/920x515_singapore.jpg" alt="imagen2" />
+      <img src="/Multim/a1845aede93f44f7262aee8035074557.jpg" alt="imagen3" />
+      <img src="/Multim/descarga.jfif" alt="imagen4" />
+      <img src="/Multim/images.jfif" alt="imagen5" />
+      <img src="/Multim/wp10479285.webp" alt="imagen6" />
+    </div>
+  </body>
+</html>
