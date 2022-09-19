@@ -1,0 +1,13 @@
+.btn-modern {
+    background-color: blueviolet;
+    color: white;
+}
+
+.btn-modern:hover {
+    transform: translateY(-5px);
+    box-shadow: darkgoldenrod;
+    background-color: blue;
+    color: yellowgreen;
+    transition: 0.4s;
+
+}
